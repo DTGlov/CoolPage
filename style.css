@@ -1,0 +1,16 @@
+body {
+    font-family: 'Kaushan Script', cursive;
+}
+
+.max-height {
+    background: url("./coofex.jpg");
+    background-size: cover;
+    min-height: 100vh;
+    background-position: center;
+    background-repeat: none;
+    background-attachment: fixed;
+}
+
+.header-name {
+    color: #4C2719;
+}
