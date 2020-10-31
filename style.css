@@ -14,3 +14,9 @@ body {
 .header-name {
     color: #4C2719;
 }
+
+.title-underline {
+    width: 200px;
+    height: 10px;
+    margin: 0 auto;
+}
